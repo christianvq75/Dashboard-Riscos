@@ -1,0 +1,12 @@
+titulo,nivel,score,categoria,status_plano,tendencia,descricao,data_incidente,tipo_registro
+Exploração de vulnerabilidade exposta na internet,Crítico,98,Tecnológico,Atrasada,up,Ativo externo com exposição crítica.,,risco
+Acesso não autorizado a dados sensíveis,Crítico,95,Processos,Em andamento,up,Revisão de acessos privilegiados pendente.,,risco
+Ransomware em estações de trabalho,Crítico,94,Tecnológico,Em andamento,up,Cobertura EDR parcial.,,risco
+Falha de segmentação de rede,Crítico,90,Tecnológico,Não iniciada,neutral,Segmentação entre ambientes insuficiente.,,risco
+Phishing bem-sucedido,Crítico,88,Pessoas,Concluída,up,Campanha de conscientização em revisão.,,risco
+Conta órfã em ambiente produtivo,Alto,82,Processos,Em andamento,down,Provisionamento e desprovisionamento inconsistentes.,,risco
+Fornecedor sem due diligence recente,Médio,63,Terceiros,Não iniciada,neutral,Revalidação contratual pendente.,,risco
+Sala técnica sem controle ambiental redundante,Baixo,35,Físico,Concluída,down,Mitigação parcial aplicada.,,risco
+Tentativa de acesso não autorizado,Crítico,92,Tecnológico,Em andamento,up,Evento detectado com bloqueio parcial,30/05/2024,incidente
+Malware detectado em endpoint,Alto,76,Tecnológico,Em andamento,up,Endpoint isolado para contenção,28/05/2024,incidente
+Phishing relatado por usuário,Médio,54,Pessoas,Concluída,down,Usuário reportou e-mail suspeito,27/05/2024,incidente
